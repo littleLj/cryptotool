@@ -1,2 +1,2 @@
-# cryptotool
-to save crypto tool source code
+# cmd
+save cmd
